@@ -1,5 +1,5 @@
 console.log("-----------------------------------------");
-console.log("同じクラスの他のメソッドを使う");
+console.log("＞同じクラスの他のメソッドを使う");
 
 class Animal3{
     constructor(name, age){
